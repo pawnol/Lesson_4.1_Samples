@@ -21,7 +21,8 @@ int main()
 
     // Example #2
     int j = 0;
-    while (j < 6) {
+    while (j < 6) 
+    {
         cout << j << "\n";
         j++;
     }
